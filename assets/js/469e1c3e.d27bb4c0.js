@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksau_research_00=self.webpackChunksau_research_00||[]).push([[558],{7144:function(e){e.exports=JSON.parse('{"permalink":"/sau_Bioinfo001/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
