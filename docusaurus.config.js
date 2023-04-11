@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Research00',
   tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://oogasawa.github.io/sau_Bioinfo001/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'github.com/oogasawa', // Usually your GitHub org/user name.
-  projectName: 'sau_Research00', // Usually your repo name.
+  organizationName: 'oogasawa', // Usually your GitHub org/user name.
+  projectName: 'sau_Bioinfo001', // Usually your repo name.
   plugins: [[require.resolve('docusaurus-lunr-search'), {
     languages: ['ja', 'en']
   }]],
@@ -80,7 +80,7 @@ const config = {
           items: [
             {
               label: 'Tutorial',
-              to: '/docs/intro',
+              to: '/',
             },
           ],
         },
