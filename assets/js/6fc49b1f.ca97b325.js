@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksau_research_00=self.webpackChunksau_research_00||[]).push([[235],{4886:function(a){a.exports=JSON.parse('{"allTagsPath":"/sau_Bioinfo001/blog/tags","slug":"/sau_Bioinfo001/blog/tags/hola","name":"hola","count":1,"permalink":"/sau_Bioinfo001/blog/tags/hola"}')}}]);
